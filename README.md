@@ -1,6 +1,7 @@
-# OpenExpertSDR
+# OpenExpertSDR_2 
+This is a version from https://github.com/Tsukihime/OpenExpertSDR with support for two audio cards. In linux is hard to work with two audio cards and in windows I not tested.
 
-git clone https://github.com/florintanasa/OpenExpertSDR
+git clone https://github.com/florintanasa/OpenExpertSDR_2
 
 To compile use:
 
